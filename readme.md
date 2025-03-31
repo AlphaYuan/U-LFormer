@@ -15,9 +15,9 @@ pip install torch==1.12.1+cu116 torchvision==0.13.1+cu116 torchaudio==0.12.1 --e
 
 ### Training Procedure
 
-First, a training dataset should be generated with `generate_dataset.py`
+First, a training dataset should be generated with `code/generate_dataset.py`
 
-To train the model, change the `train_address` and `valid_address` and run the python command below to get a model predicting alpha and K.
+To train the model, change the `train_address` and `valid_address` and run the python command below to get a model predicting alpha and K in `code` directory
 ```
 python3 maintrack_others.py
 ```
@@ -27,10 +27,10 @@ python3 maintrack_others.py
 
 #### Single Trajectory Task
 
-Run the first part (Single Trajectory Task) in `Evaluate.ipynb`.
+Run the first part (Single Trajectory Task) in `code/Evaluate.ipynb`.
 
 #### Video Ensemble Task
 
 For video trajectory linking, we use MatLab and TrackMate together to extract trajectories from videos. Code is in `code/traj_link/main.m`
 
-Then, run the second part (Ensemble Task) in `Evaluate.ipynb`.
+Then, run the second part (Ensemble Task) in `code/Evaluate.ipynb`.
