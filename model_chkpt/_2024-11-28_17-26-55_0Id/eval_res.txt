@@ -1,0 +1,11 @@
+
+Fri Nov 29 10:30:26 2024, /data1/jiangy/andi_tcu/code/andi_2/output/_2024-11-28_17-26-55_0Id/, /data1/jiangy/andi_tcu/code/andi_2/datasets/andi_set/1104_multi_state/test/test0_Nall_300000_T200_200_K-3_3.csv, False, None
+{'a_mae': 0.08599457144737244, 'k_mae': 0.07335921451449394, 'a_mse': 0.01977342339232564, 'k_mse': 0.01977342339232564, 'rmse_CP': 1.2441666837394074, 'JI': 0.7417682499649713, 'alpha': 0.12718743438470834, 'D': 0.006786555615116156, 'state': 0.0}
+Fri Dec  6 14:04:35 2024, /data1/jiangy/andi_tcu/code/andi_2/output/_2024-11-28_17-26-55_0Id/, /data1/jiangy/andi_tcu/code/andi_2/datasets/andi_set/1104_multi_state/test/test0_Nall_300000_T200_200_K-3_3.csv, False, None
+{'a_mae': 0.08599457144737244, 'k_mae': 0.07335921451449394, 'a_mse': 0.01977342339232564, 'k_mse': 0.015295230504125356, 'rmse_CP': 1.2441666837394074, 'JI': 0.7417682499649713, 'alpha': 0.12718743438470834, 'D': 0.09016670525265053, 'state': 0.0}
+Mon Mar 24 10:22:32 2025, /data1/jiangy/U-LFormer/model_chkpt/_2024-11-28_17-26-55_0Id/, /data1/jiangy/U-LFormer/data/1104_multi_state/test/test0_Nall_300000_T200_200_K-3_3.csv, False, None
+{'a_mae': 0.08599459677934647, 'k_mae': 0.07335784062743186, 'a_mse': 0.01977339629083872, 'k_mse': 0.015294757392257451, 'rmse_CP': 1.2441666837394074, 'JI': 0.7417682499649713, 'alpha': 0.12718659176229766, 'D': 0.09016546549165073, 'state': 0.0}
+Mon Mar 24 10:23:04 2025, /data1/jiangy/U-LFormer/model_chkpt/_2024-11-28_17-26-55_0Id/, /data1/jiangy/U-LFormer/data/1104_multi_state/test/test0_Nall_300000_T200_200_K-3_3.csv, False, None
+{'a_mae': 0.08599459677934647, 'k_mae': 0.07335784062743186, 'a_mse': 0.01977339629083872, 'k_mse': 0.015294757392257451, 'rmse_CP': 1.2441666837394074, 'JI': 0.7417682499649713, 'alpha': 0.12718659176229766, 'D': 0.09016546549165073, 'state': 0.0}
+Mon Mar 24 11:13:37 2025, ../model_chkpt/_2024-11-28_17-26-55_0Id/, ../data/1104_multi_state/test/test0_Nall_300000_T200_200_K-3_3.csv, False, None
+{'a_mae': 0.08599457144737244, 'k_mae': 0.07335921451449394, 'a_mse': 0.01977342339232564, 'k_mse': 0.015295230504125356, 'rmse_CP': 1.2441666837394074, 'JI': 0.7417682499649713, 'alpha': 0.12718743438470834, 'D': 0.09016670525265053, 'state': 0.0}
